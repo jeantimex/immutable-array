@@ -1,0 +1,24 @@
+{
+  "name": "immutable-array",
+  "version": "0.0.1",
+  "description": "A node package that provides immutable operations over JavaScript array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeantimex/immutable-array.git"
+  },
+  "keywords": [
+    "javascript",
+    "immutable",
+    "array"
+  ],
+  "author": "Yong Su",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeantimex/immutable-array/issues"
+  },
+  "homepage": "https://github.com/jeantimex/immutable-array#readme"
+}
